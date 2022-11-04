@@ -1,6 +1,10 @@
 from typing import List
 
 
+# This does not work at all,  thought with a good datastructure
+# the problem would become trivial it did not, probably makes more
+# sense to just use a bunch ifs.
+
 def add1(val):
     return val + 1
 
