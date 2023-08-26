@@ -1,4 +1,5 @@
 ## Some quick commands and combos
 
-cw -- change word
-. -- repeat last action
+- **cw** -- change word
+
+- **.l** -- repeat last action
